@@ -8,7 +8,6 @@
 
 ## 🎩 I'm a Brazilian software developer and ethical hacker 🖥️🖱️
 ### 🌱 I'm currently learning Javascript ✨ and some Linux stuf 🐧
-### 🤝 Also, I'm working on some programming projects with [Davi](https://github.com/Davi-S)
 ### ⚡️ Skils:
    1. 🐍 Python
    2. ✨ Javascript
