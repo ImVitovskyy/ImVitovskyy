@@ -2,9 +2,9 @@
 	<h1>👨‍💻 Hey, I'm Phant 👋</h1>
 </div>
 
-<div>
+<div algin="center">
 	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=ImPhant&hide=prs&theme=tokyonight">
-	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPhant&layout=compact&theme=tokyonight&card_width=170">
+	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPhant&layout=compact&theme=tokyonight&card_width=180">
 </div>
 
 ## 🎩 I'm a Brazilian software developer and ethical hacker 🖥️🖱️
