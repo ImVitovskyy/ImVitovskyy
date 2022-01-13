@@ -4,10 +4,8 @@
 
 <div align="center">
 	<div>
-		<a href="https://github.com/ImPhant?tab=repositories">
-			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImPhant&show_icons=true&theme=tokyonight&icon_color=1a37c7"/>
-			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPhant&layout=compact&langs_count=7&theme=tokyonight&card_width=190"/>
-		</a>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImPhant&show_icons=true&theme=tokyonight&icon_color=1a37c7"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPhant&layout=compact&langs_count=7&theme=tokyonight&card_width=190"/>
 	</div>
 </div>
 
