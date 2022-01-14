@@ -14,5 +14,7 @@
    3. 🔴 HTML
    4. 🔵 CSS
 <a href="https://github.com/ImPhant?tab=repositories">
+  
   ![Snake animation](https://github.com/ImPhant/ImPhant/blob/output/github-contribution-grid-snake.svg)
+  
 </a>
