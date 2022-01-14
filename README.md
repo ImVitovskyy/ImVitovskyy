@@ -14,5 +14,5 @@
    3. 🔴 HTML
    4. 🔵 CSS
 
-  
-![Snake animation](https://github.com/ImPhant/)  
+
+![Snake animation](https://github.com/ImPhant/ImPhant/blob/output/github-contribution-grid-snake.svg)
