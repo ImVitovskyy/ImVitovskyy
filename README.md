@@ -13,3 +13,6 @@
    2. ✨ Javascript
    3. 🔴 HTML
    4. 🔵 CSS
+
+  ![Snake animation](https://github.com/ImPhant/)
+  
