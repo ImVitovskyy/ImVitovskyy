@@ -1,4 +1,4 @@
-# 👨‍💻 Hey, I'm Phant 👋</h1>
+# 👨‍💻 Hey, I'm Vitovskyy 👋</h1>
 
 <div align="center">
   <a href="https://github.com/ImPhant?tab=repositories">
