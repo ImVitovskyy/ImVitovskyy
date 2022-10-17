@@ -13,7 +13,7 @@
    2. ✨ Javascript
    3. 🔴 HTML
    4. 🔵 CSS
-<a href="https://github.com/ImPhant?tab=repositories">
+<a href="https://github.com/ImVitovskyy?tab=repositories">
   
   ![Snake animation](https://github.com/ImVitovskyy/ImVitovskyy/blob/output/github-contribution-grid-snake.svg)
   
