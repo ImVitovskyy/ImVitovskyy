@@ -18,3 +18,5 @@
   ![Snake animation](https://github.com/ImVitovskyy/ImVitovskyy/blob/output/github-contribution-grid-snake.svg)
   
 </a>
+
+[![](https://visitcount.itsvg.in/api?id=ImVitovskyy&icon=0&color=0)](https://visitcount.itsvg.in)
