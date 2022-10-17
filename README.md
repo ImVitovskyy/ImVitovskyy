@@ -32,11 +32,7 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; 
 
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImVitovskyy}/count.svg" /></p> 
 <br></div>
-  
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ImVitovskyy&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
