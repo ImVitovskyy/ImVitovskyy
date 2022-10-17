@@ -37,5 +37,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImVitovskyy}/count.svg" /></p> 
 <br></div>
   
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ImVitovskyy&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
